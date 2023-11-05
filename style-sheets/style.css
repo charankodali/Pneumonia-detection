@@ -16,9 +16,7 @@
 html{
   scroll-behavior: smooth;
 }
-body{
-  background-color: black;
-}
+
 h1{
   font-family: 'Sora', sans-serif;
 }

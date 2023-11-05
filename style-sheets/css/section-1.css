@@ -1,2 +1,45 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Sora&display=swap');
+
+
+.parent-nav{
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    background-color: #E0F4FF;
+}
+.child-nav-one{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+
+.Icon-logo{
+    width: 80px;
+    height: 80px;
+}
+
+.child-nav-ul{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    list-style:none;
+    gap:30px;
+    margin:0;
+    padding:0;
+}
+a {
+    text-decoration: none;
+    color:black;
+  }
+.login-list{
+    background-color: #1F1717;
+    padding:10px;
+ } 
+.login-list-a{
+    color: #E0F4FF;
+ } 
+.login-list:hover{
+    background-color: #016A70;
+ }
+
