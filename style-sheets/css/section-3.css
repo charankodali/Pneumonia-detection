@@ -71,3 +71,25 @@ hr{
     width: 80%;
     padding: 2em 0em 0em 0em;
 }
+
+
+.Prevention-heading-1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.8em;
+    font-weight: 600;
+    color: #000000;
+}
+
+
+.childtwo-section-4{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 40%;
+    gap: 20px;
+}
+
+.childtwo-image-icon-2{
+    width:40px;
+    height:40px;
+}
